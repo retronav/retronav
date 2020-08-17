@@ -28,4 +28,4 @@ I am a junior college student, living in India. I have experience with TypeScrip
 :electric_plug: Plug, the next-gen module manager for the Web and Deno. Since I haven't posted the code on GitHub yet, but I will, soon.
 
 # If you like my work...
-![patreon](https://img.shields.io/badge/support%20on-patreon-%23F96854?logo=patreon&style=for-the-badge&link=https://patreon.com/obnoxiousnerd)
+[![patreon](https://img.shields.io/badge/support%20on-patreon-%23F96854?logo=patreon&style=for-the-badge)](https://patreon.com/obnoxiousnerd)
