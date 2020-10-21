@@ -11,21 +11,25 @@ I am a junior college student, living in India. I have experience with TypeScrip
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"></code>
   <code><img height="40" src="https://www.ixon.cloud/media/ciqpa3f3/api-2x.png" alt="APIs"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="Go"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
 </p>
 
-# Currently working on
-<p>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="Go"></code>
-</p>
+# Currently working on these skills
+* Sharpening my Go and Python skills
+* Automated tests
 
 # My Projects
 * :bear: [TeddyTags](https://teddy.js.org) The superfast way to custom elements.
 * :sunglasses: [Do-It-Lazy](https://obnoxiousnerd.github.io/do-it-lazy) Your own to-do list.
 
-# Currently Working On
-:electric_plug: Plug, the next-gen module manager for the Web and Deno. Since I haven't posted the code on GitHub yet, but I will, soon.
+# Projects that I am currently working on
+* :electric_plug: [Plug](https://github.com/obnoxiousnerd/plugpkg), the next-gen module manager for the Web and Deno.
+* ❓= [Lookahead](https://github.com/obnoxiousnerd/lookahead), the fast, simple app for your notes and to-dos.
 
 # If you like my work...
 [![patreon](https://img.shields.io/badge/support%20on-patreon-%23F96854?logo=patreon&style=for-the-badge)](https://patreon.com/obnoxiousnerd)
+
+**Or**
+
+Contribute to my projects!!
