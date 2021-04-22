@@ -25,7 +25,7 @@ I am a junior college student, living in India. I have experience with TypeScrip
 * :sunglasses: [Do-It-Lazy](https://obnoxiousnerd.github.io/do-it-lazy) Your own to-do list.
 
 # Projects that I am currently working on
-* :electric_plug: [Plug](https://github.com/obnoxiousnerd/plugpkg), the next-gen module manager for the Web and Deno.
+<!-- * :electric_plug: [Plug](https://github.com/obnoxiousnerd/plugpkg), the next-gen module manager for the Web and Deno. -->
 * ❓= [Lookahead](https://github.com/obnoxiousnerd/lookahead), the fast, simple app for your notes and to-dos.
 
 # If you like my work...
