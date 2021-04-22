@@ -29,8 +29,6 @@ I am a junior college student, living in India. I have experience with TypeScrip
 * ❓= [Lookahead](https://github.com/obnoxiousnerd/lookahead), the fast, simple app for your notes and to-dos.
 
 # If you like my work...
-[![patreon](https://img.shields.io/badge/support%20on-patreon-%23F96854?logo=patreon&style=for-the-badge)](https://patreon.com/obnoxiousnerd)
-
-**Or**
-
-Contribute to my projects!!
+* [Become a patron!! ✌](https://patreon.com/obnoxiousnerd)
+* Give me a tip if you are a Brave browser user!! 🦁
+* Contribute to my projects!!
