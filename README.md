@@ -32,3 +32,8 @@ I am a junior college student, living in India. I have experience with TypeScrip
 * [Become a patron!! ✌](https://patreon.com/obnoxiousnerd)
 * Give me a tip if you are a Brave browser user!! 🦁
 * Contribute to my projects!!
+
+-------------
+
+# Stats for nerds
+![Profile views](https://gpvc.arturio.dev/obnoxiousnerd)
