@@ -13,6 +13,7 @@ I am a junior college student, living in India. I have experience with TypeScrip
 * [Python](https://python.org)
 * [Go](https://go.dev)
 * [Hugo](https://gohugo.io)
+* [Astro](https://astro.build)
 
 # My Projects
 * :bear: [TeddyTags](https://teddy.js.org) The superfast way to custom elements.
@@ -21,7 +22,7 @@ I am a junior college student, living in India. I have experience with TypeScrip
 # Currently working on
 * ❓= [Lookahead](https://github.com/obnoxiousnerd/lookahead), the fast, simple app for your notes and to-dos.
 * 🧾 [rep](https://git.sr.ht/~obnoxiousnerd/rep), a fast, yet customisable report card generator.
-* 🌐 An accessible, minimal, down-to-earth, almost no-JS Hugo template for websites. 🤫
+* 🌐 An accessible, minimal, down-to-earth, almost no-JS ~~Hugo~~ Astro template for websites (which will replace my website's current Hugo build system). 🤫
 
 # If you like my work...
 * [Become a patron!! ✌](https://patreon.com/obnoxiousnerd)
