@@ -34,3 +34,5 @@ I am a junior college student, living in India. I have experience with TypeScrip
 
 # Stats for nerds
 ![Profile views](https://gpvc.arturio.dev/obnoxiousnerd)
+
+<sub><sup>Note: You ain't copying any of this right here, okay? Make your own README, just don't make it look identical to me.</sup></sub>
