@@ -27,12 +27,10 @@ I am a junior college student, living in India. I have experience with TypeScrip
 
 # If you like my work...
 * [Become a patron!! ✌](https://patreon.com/obnoxiousnerd)
-* Give me a tip if you are a Brave browser user!! 🦁
-* Contribute to my projects!!
+* Tip from Brave Rewards
+* Spread the word and do a nice thing to someone
 
 -------------
 
 # Stats for nerds
 ![Profile views](https://gpvc.arturio.dev/obnoxiousnerd)
-
-<sub><sup>Note: You ain't copying any of this right here, okay? Make your own README, just don't make it look identical to me.</sup></sub>
