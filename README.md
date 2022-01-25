@@ -20,14 +20,12 @@ I am a junior college student, living in India. I have experience with TypeScrip
 * :sunglasses: [Do-It-Lazy](https://obnoxiousnerd.github.io/do-it-lazy) Your own to-do list.
 
 # Currently working on
-* ❓= [Lookahead](https://github.com/obnoxiousnerd/lookahead), the fast, simple app for your notes and to-dos.
-* 🧾 [rep](https://git.sr.ht/~obnoxiousnerd/rep), a fast, yet customisable report card generator.
+* 🧾 `rep`, a fast, yet customisable report card generator.
 * 🌐 An accessible, minimal, down-to-earth, almost no-JS ~~Hugo~~ Astro template for websites (which will replace my website's current Hugo build system). 🤫
-* ⏲️ A CLI for 2FA 🤫
+* 📄 A beautiful, lightweight Markdown editor
 
 # If you like my work...
 * [Become a patron!! ✌](https://patreon.com/obnoxiousnerd)
-* Tip from Brave Rewards
 * Spread the word and do a nice thing to someone
 
 -------------
