@@ -1,6 +1,6 @@
 # https://obnerd.in/
 # Hello, there!
-I am Pranav Karawale, or "obnoxiousnerd" as my username goes. He/Him. Currently 17.
+I am Pranav Karawale, or "retronav" as my username goes. He/Him. Currently 17.
 
 # Who am I
 I am a junior college student, living in India. I have experience with TypeScript, Node.js, Go, Python and is currently focusing on web accessibility.
