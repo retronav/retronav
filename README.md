@@ -17,7 +17,7 @@ I am a junior college student, living in India. I have experience with TypeScrip
 
 # My Projects
 * :bear: [TeddyTags](https://teddy.js.org) The superfast way to custom elements.
-* :sunglasses: [Do-It-Lazy](https://obnoxiousnerd.github.io/do-it-lazy) Your own to-do list.
+* :sunglasses: [Do-It-Lazy](https://retronav.github.io/do-it-lazy) Your own to-do list.
 
 # Currently working on
 * 🧾 `rep`, a fast, yet customisable report card generator.
@@ -25,10 +25,10 @@ I am a junior college student, living in India. I have experience with TypeScrip
 * 📄 A beautiful, lightweight Markdown editor
 
 # If you like my work...
-* [Become a patron!! ✌](https://patreon.com/obnoxiousnerd)
+* [Become a patron!! ✌](https://patreon.com/retronav)
 * Spread the word and do a nice thing to someone
 
 -------------
 
 # Stats for nerds
-![Profile views](https://gpvc.arturio.dev/obnoxiousnerd)
+![Profile views](https://gpvc.arturio.dev/retronav)
