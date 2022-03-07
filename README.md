@@ -1,4 +1,4 @@
-# https://obnerd.in/
+# https://karawale.in/
 # Hello, there!
 I am Pranav Karawale, or "retronav" as my username goes. He/Him. Currently 17.
 
