@@ -24,10 +24,13 @@ I am a junior college student, living in India. I have experience with TypeScrip
 * 🌐 An accessible, minimal, down-to-earth, almost no-JS ~~Hugo~~ Astro template for websites (which will replace my website's current Hugo build system). 🤫
 * 📄 A beautiful, lightweight Markdown editor
 
-# If you like my work...
+# If you like my work
 * [Become a patron!! ✌](https://patreon.com/retronav)
-* Spread the word and do a nice thing to someone
 
+# Things to do if you're a cool person
+* Preach the use of Linux
+* Embrace "the slow web"
+* Get involved in the [Fediverse](https://www.fediverse.to/)
 -------------
 
 # Stats for nerds
