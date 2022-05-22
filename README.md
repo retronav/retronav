@@ -17,11 +17,13 @@
 ............................................
 ............................................
 ```
+```
+Ain't got a soapbox I can stand upon
+But God gave me a stage, a guitar and a song
+```
 
 All commits signed from March 13, 2022. Question unverified commits done, if any.
 
-I will be moving some stuff to Sourcehut (https://git.sr.ht/~retronav) which I find very pleasing to use.
-
-Questions? Mail me / tweet me / use string and cans
+Questions? Mail me / toot me / use string and cans
 
 <!-- Inspired from https://github.com/boehs ->
