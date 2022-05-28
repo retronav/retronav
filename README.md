@@ -17,10 +17,8 @@
 ............................................
 ............................................
 ```
-```
-Ain't got a soapbox I can stand upon
-But God gave me a stage, a guitar and a song
-```
+
+**When the seagulls follow the trawler, it is because they think sardines will be thrown into the sea.**
 
 All commits signed from March 13, 2022. Question unverified commits done, if any.
 
