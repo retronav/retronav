@@ -18,7 +18,7 @@ jobs:
 
       - name: Collect weekly stats
         run: |
-          curl https://wakatime.com/api/v1/users/current/stats/last_7_days -H "Authorization: Basic ${WAKATIME_API_KEY}" \
+          curl -v "https://wakatime.com/api/v1/users/current/stats/last_7_days?api_key=${WAKATIME_API_KEY}"\
           -o wakatime-archive/$(date --date='TZ="Asia/Kolkata" 1 week ago' "+%V-%Y").json
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
