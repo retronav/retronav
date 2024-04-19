@@ -6,7 +6,7 @@
 ........................oMMMMo..............
 ........lXXXXco0NNXk:...oMMMMo..xXXXKd......    https://karawale.in
 ........dMMMMNWNMMMMMk..oMMMMo:XMMMXc.......    pranav@?#?#?#?#.in
-........dMMMMO..,XMMMM:.oMMMMXMMMMx.........    #GiveUpGithub
+........dMMMMO..,XMMMM:.oMMMMXMMMMx.........    
 ........dMMMM:...xMMMMd.oMMMMMMMMWl.........
 ........dMMMMK,':NMMMM;.oMMMMK0MMMMx........
 ........dMMMMXMMMMMMWo..oMMMMo.oWMMMX;......
@@ -18,10 +18,10 @@
 ............................................
 ```
 
+If you can figure out the email and want to be a part of something exciting, you know what to do.
+
 **When the seagulls follow the trawler, it is because they think sardines will be thrown into the sea.**
 
 All commits signed from March 13, 2022. Question unverified commits done, if any.
-
-Questions? Mail me / toot me / use string and cans
 
 <!-- Inspired from https://github.com/boehs ->
