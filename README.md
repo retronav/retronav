@@ -7,4 +7,4 @@ Text list of interests including Basketball, Listening to Music, Insightful conv
 ![Just remember, what happens on Earth stays on Earth!
 All commits signed from March 13, 2022. Question unverified commits done, if any. 
 \- P (pranav@#!#!#!#!.in)](https://github.com/retronav/retronav/assets/52596591/69e07fff-a2be-4ffb-95dc-0c97bee947b1)
-
+![Auto-generated visitor count and coding stats](https://misc.karawale.in/readmeyecandy/readme)
