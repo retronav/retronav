@@ -251,130 +251,158 @@ const stats = await getWakapiStats();
 const svg = await satori(
 	<div
 		style={{
-			color: FG,
-			background: BG,
+			width: "100%",
+			height: "100%",
+			padding: "1rem",
 			display: "flex",
 			flexDirection: "column",
-			height: "100%",
-			width: "100%",
+			alignItems: "center",
+			justifyContent: "center",
 		}}
 	>
 		<div
 			style={{
+				color: FG,
+				background: BG,
 				display: "flex",
-				margin: "1rem 2rem",
+				flexDirection: "column",
+				height: "100%",
+				width: "100%",
+				border: `1px solid ${GOLDEN}`,
+				boxShadow: `0 0 10px ${GOLDEN}`,
 			}}
 		>
 			<img
-				height={48}
-				width={48}
+				style={{
+					position: "absolute",
+					top: "1rem",
+					left: "1rem",
+				}}
+				height={64}
+				width={64}
 				src="https://karawale.in/logo.png"
 				alt="My logo"
 			/>
-		</div>
-		<pre
-			style={{
-				color: FG,
-				margin: "0 2rem",
-				fontFamily: "Victor Mono",
-			}}
-		>
-			<code
+			<pre
 				style={{
+					color: FG,
+					margin: "2rem",
 					fontFamily: "Victor Mono",
-					fontSize: "12px",
-					display: "flex",
-					flexDirection: "column",
 				}}
 			>
-				<span style={{ color: GOLDEN }}>{banner}</span>
-				<p>
-					<span>{`Last login: ${now.toString()}`}</span>
-				</p>
-				<p style={{ display: "flex", flexDirection: "column", gap: "2px" }}>
-					<span>
-						<Prompt />
-						<span>uptime -p</span>
-					</span>
-					<span>
-						up {uptimeYears} years, {uptimeMonths} months, {uptimeDays} days
-					</span>
-				</p>
-				<p style={{ display: "flex", flexDirection: "column", gap: "2px" }}>
-					<span>
-						<Prompt />
-						<span>ls</span>
-					</span>
-					<span>{"tech  interests  github  coding  contact"}</span>
-				</p>
-				<p style={{ display: "flex", flexDirection: "column", gap: "2px" }}>
-					<span>
-						<Prompt />
-						<span>cat ./tech | jq</span>
-					</span>
-					<div style={{ display: "flex", flexDirection: "column", whiteSpace: "pre" }}>{renderJsonStyled(tech)}</div>
-				</p>
-				<p style={{ display: "flex", flexDirection: "column", gap: "2px" }}>
-					<span>
-						<Prompt />
-						<span>cat ./interests | jq</span>
-					</span>
-					<div style={{ display: "flex", flexDirection: "column", whiteSpace: "pre" }}>{renderJsonStyled(interests)}</div>
-				</p>
-				<p style={{ display: "flex", flexDirection: "column", gap: "2px" }}>
-					<span>
-						<Prompt />
-						<span>cat ./github</span>
-					</span>
-					<span>
-						<span>{github.year} github : </span>
-						<span>{"stars: "}</span>
-						<span style={{ color: GOLDEN }}>{github.stars}</span>
-						<span>{" | commits: "}</span>
-						<span style={{ color: HOTPINK }}>{github.commits}</span>
-						<span>{" | prs: "}</span>
-						<span style={{ color: HOTPINK }}>{github.prs}</span>
-						<span>{" | issues: "}</span>
-						<span style={{ color: HOTPINK }}>{github.issues}</span>
-					</span>
-				</p>
-				<p style={{ display: "flex", flexDirection: "column", gap: "2px" }}>
-					<span>
-						<Prompt />
-						<span>cat ./coding</span>
-					</span>
-					<span>
-						<span>{"day: "}</span>
-						<span style={{ color: HOTPINK }}>{stats.day}</span>
-						<span>{" | week: "}</span>
-						<span style={{ color: HOTPINK }}>{stats.week}</span>
-						<span>{" | month: "}</span>
-						<span style={{ color: HOTPINK }}>{stats.month}</span>
-					</span>
-				</p>
-				<p style={{ display: "flex", flexDirection: "column", gap: "2px" }}>
-					<span>
-						<Prompt />
-						<span>cat ./contact</span>
-					</span>
-					<span>
+				<code
+					style={{
+						fontFamily: "Victor Mono",
+						fontSize: "12px",
+						display: "flex",
+						flexDirection: "column",
+					}}
+				>
+					<span style={{ color: GOLDEN }}>{banner}</span>
+					<p>
+						<span>{`Last login: ${now.toString()}`}</span>
+					</p>
+					<p style={{ display: "flex", flexDirection: "column", gap: "2px" }}>
 						<span>
-							Email : {/* Worst line of code I've written recently */}
-							<span style={{ color: GOLDEN }}>
-								{atob("cHJhbmF2QGthcmF3YWxlLmlu")}
-								{"  "}
-							</span>
+							<Prompt />
+							<span>uptime -p</span>
 						</span>
 						<span>
-							Website :{" "}
-							<span style={{ color: GOLDEN }}>
-								<u>https://karawale.in</u>
+							up {uptimeYears} years, {uptimeMonths} months, {uptimeDays} days
+						</span>
+					</p>
+					<p style={{ display: "flex", flexDirection: "column", gap: "2px" }}>
+						<span>
+							<Prompt />
+							<span>ls</span>
+						</span>
+						<span>{"tech  interests  github  coding  contact"}</span>
+					</p>
+					<p style={{ display: "flex", flexDirection: "column", gap: "2px" }}>
+						<span>
+							<Prompt />
+							<span>cat ./tech | jq</span>
+						</span>
+						<div
+							style={{
+								display: "flex",
+								flexDirection: "column",
+								whiteSpace: "pre",
+							}}
+						>
+							{renderJsonStyled(tech)}
+						</div>
+					</p>
+					<p style={{ display: "flex", flexDirection: "column", gap: "2px" }}>
+						<span>
+							<Prompt />
+							<span>cat ./interests | jq</span>
+						</span>
+						<div
+							style={{
+								display: "flex",
+								flexDirection: "column",
+								whiteSpace: "pre",
+							}}
+						>
+							{renderJsonStyled(interests)}
+						</div>
+					</p>
+					<p style={{ display: "flex", flexDirection: "column", gap: "2px" }}>
+						<span>
+							<Prompt />
+							<span>cat ./github</span>
+						</span>
+						<span>
+							<span>{github.year} github : </span>
+							<span>{"stars: "}</span>
+							<span style={{ color: GOLDEN }}>{github.stars}</span>
+							<span>{" | commits: "}</span>
+							<span style={{ color: HOTPINK }}>{github.commits}</span>
+							<span>{" | prs: "}</span>
+							<span style={{ color: HOTPINK }}>{github.prs}</span>
+							<span>{" | issues: "}</span>
+							<span style={{ color: HOTPINK }}>{github.issues}</span>
+						</span>
+					</p>
+					<p style={{ display: "flex", flexDirection: "column", gap: "2px" }}>
+						<span>
+							<Prompt />
+							<span>cat ./coding</span>
+						</span>
+						<span>
+							<span>{"day: "}</span>
+							<span style={{ color: HOTPINK }}>{stats.day}</span>
+							<span>{" | week: "}</span>
+							<span style={{ color: HOTPINK }}>{stats.week}</span>
+							<span>{" | month: "}</span>
+							<span style={{ color: HOTPINK }}>{stats.month}</span>
+						</span>
+					</p>
+					<p style={{ display: "flex", flexDirection: "column", gap: "2px" }}>
+						<span>
+							<Prompt />
+							<span>cat ./contact</span>
+						</span>
+						<span>
+							<span>
+								Email : {/* Worst line of code I've written recently */}
+								<span style={{ color: GOLDEN }}>
+									{atob("cHJhbmF2QGthcmF3YWxlLmlu")}
+									{"  "}
+								</span>
+							</span>
+							<span>
+								Website :{" "}
+								<span style={{ color: GOLDEN }}>
+									<u>https://karawale.in</u>
+								</span>
 							</span>
 						</span>
-					</span>
-				</p>
-			</code>
-		</pre>
+					</p>
+				</code>
+			</pre>
+		</div>
 	</div>,
 	{
 		width: 1000,
@@ -391,5 +419,5 @@ const svg = await satori(
 );
 
 // Write SVG to file
-writeFileSync("readme.svg", svg);
-console.log("SVG generated at readme.svg");
+writeFileSync("banner.svg", svg);
+console.log("SVG generated at banner.svg");
