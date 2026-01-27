@@ -83,7 +83,7 @@ async function getWakapiStats() {
 
 	try {
 		const [dayResp, weekResp, monthResp] = await Promise.all([
-			fetch(`${wakapiUrl}/today`),
+			fetch(`${wakapiUrl}/yesterday`),
 			fetch(`${wakapiUrl}/last_7_days`),
 			fetch(`${wakapiUrl}/last_30_days`),
 		]);
