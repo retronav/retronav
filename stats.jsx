@@ -395,7 +395,7 @@ const svg = await satori(
 							<span>
 								Website :{" "}
 								<span style={{ color: GOLDEN }}>
-									<u>https://karawale.in</u>
+									<u>https://karawale.com</u>
 								</span>
 							</span>
 						</span>
