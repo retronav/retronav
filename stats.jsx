@@ -65,7 +65,7 @@ const interests = await readFile("./data/interests.json", {
 const owner = "retronav";
 const yearStart = new Date(new Date().getFullYear(), 0, 1);
 const wakapiUrl =
-	"https://wakapi.karawale.in/api/compat/wakatime/v1/users/pranav/stats";
+	"https://wakapi.karawale.com/api/compat/wakatime/v1/users/pranav/stats";
 
 const highlighter = await createHighlighter({
 	langs: ["json"],
