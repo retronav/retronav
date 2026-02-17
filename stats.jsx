@@ -388,7 +388,7 @@ const svg = await satori(
 							<span>
 								Email : {/* Worst line of code I've written recently */}
 								<span style={{ color: GOLDEN }}>
-									{atob("cHJhbmF2QGthcmF3YWxlLmlu")}
+									{atob("cHJhbmF2QGthcmF3YWxlLmNvbQ")}
 									{"  "}
 								</span>
 							</span>
