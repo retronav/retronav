@@ -246,7 +246,8 @@ const renderJsonStyled = (value) => {
 };
 
 const github = await getGithubStats();
-const stats = await getWakapiStats();
+// const stats = await getWakapiStats();
+const stats = { day : "8h 0m", week: "40h 0m", month: "160h 0m" }; // TODO: link with actual job stats
 
 const svg = await satori(
 	<div
