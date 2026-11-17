@@ -1,1 +1,1 @@
-![Banner](https://raw.githubusercontent.com/retronav/retronav/refs/heads/master/banner.svg?v=1794812607)
+![Banner](https://raw.githubusercontent.com/retronav/retronav/refs/heads/master/banner.svg?v=1794903470)
